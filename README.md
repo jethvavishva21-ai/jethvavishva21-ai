@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vishva Jethva</h1>
-<h2 align="center">🚀 Aspiring Software Engineer</h2>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Always+Learning+&+Building" alt="Typing SVG" />
+  </a>
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
 </div>
 
-<br><br>
+<br>
 
 ## 🚀 About Me
 
@@ -19,8 +24,8 @@
       <b>🌍 Location:</b> Rajkot, Gujarat, India <br>
       <b>🎯 Goal:</b> Become a skilled Software Engineer 🚀 <br><br>
       <ul>
-        <li>💻 Learning Full-Stack Development</li>
-        <li>🧠 Improving problem-solving skills</li>
+        <li>💻 Learning Full-Stack Development (React.js)</li>
+        <li>🧠 Improving problem-solving skills & Data Structures</li>
         <li>🌱 Strong focus on fundamentals and clean code</li>
         <li>🚀 Constantly building & experimenting with projects</li>
       </ul>
@@ -37,8 +42,18 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,github" />
+    <!-- Added C and SQL based on your tech stack -->
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,c,mysql,github,vscode" alt="Skills" />
   </a>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jethvavishva21-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vishva's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jethvavishva21-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 <br>
@@ -58,16 +73,14 @@
 
 <h3 align="center">📌 Open For</h3>
 <p align="center">
-  🤝 Collaboration on projects<br>
-  🧠 Learning & guidance<br>
-  💻 Full-stack practice<br>
-  🚀 Growth opportunities
+  🤝 Collaboration on projects | 🧠 Learning & guidance | 💻 Full-stack practice | 🚀 Growth opportunities
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jethvavishva21-ai&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <!-- New Reliable Profile Views Counter -->
+  <img src="https://visitcount.itsvg.in/api?id=jethvavishva21-ai&label=PROFILE%20VIEWS&color=0&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
 <p align="center">
