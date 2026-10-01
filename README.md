@@ -42,8 +42,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Added C and SQL based on your tech stack -->
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,c,mysql,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,c,java,mysql,github,vscode" alt="Skills" />
   </a>
 </p>
 
@@ -52,8 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jethvavishva21-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vishva's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jethvavishva21-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jethvavishva21-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vishva's GitHub Stats" />
 </p>
 
 <br>
@@ -79,8 +77,7 @@
 <br>
 
 <p align="center">
-  <!-- New Reliable Profile Views Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=jethvavishva21-ai&label=PROFILE%20VIEWS&color=0&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=jethvavishva21-ai&label=Profile%20Views&color=0E75B6&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
 <p align="center">
