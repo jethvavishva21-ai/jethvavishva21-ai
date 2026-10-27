@@ -1,87 +1,120 @@
-<h1 align="center">Hi 👋, I'm Vishva Jethva</h1>
+# Hi 👋, I'm Vishva Jethva
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Always+Learning+&+Building" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
-</div>
-
-<br>
-
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <b>👤 Name:</b> Vishva Jethva <br>
-      <b>💻 Role:</b> Student & Developer <br>
-      <b>🌍 Location:</b> Rajkot, Gujarat, India <br>
-      <b>🎯 Goal:</b> Become a skilled Software Engineer 🚀 <br><br>
-      <ul>
-        <li>💻 Learning Full-Stack Development (React.js)</li>
-        <li>🧠 Improving problem-solving skills & Data Structures</li>
-        <li>🌱 Strong focus on fundamentals and clean code</li>
-        <li>🚀 Constantly building & experimenting with projects</li>
-      </ul>
-    </td>
-    <td valign="center" width="40%">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="Coding Illustration" width="100%">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 💻 Skills & Tools
+### 💻 Software Engineering Student | Aspiring Full-Stack Developer
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,c,java,mysql,github,vscode" alt="Skills" />
+  <a href="https://github.com/jethvavishva21-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:jethvavishva21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0E75B6?style=flat-square" alt="Current Focus" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineering student from Rajkot, Gujarat, India, passionate about learning programming and building useful web applications.
+
+- 🌱 Currently learning **React.js and Full-Stack Development**
+- ⚛️ Exploring React components, hooks, routing, and API integration
+- 💡 Strengthening my problem-solving and Data Structures fundamentals
+- 🗄️ Learning database concepts and SQL
+- 🚀 Interested in building practical, real-world projects
+- 🎯 Goal: Become a skilled Software Engineer
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js" alt="Programming Languages" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Web Development" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and Developer Tools" />
+</p>
+
+---
+
+## 🚀 Projects
+
+Here are some areas I'm exploring through hands-on practice and development.
+
+### ⚛️ React.js Projects
+- Practicing reusable components and props
+- Learning state management and React hooks
+- Working with routing and REST API operations
+
+### 🌐 Web Development Projects
+- Creating responsive web pages with HTML and CSS
+- Practicing JavaScript events and DOM manipulation
+- Building interactive front-end applications
+
+### ☕ Java Programming
+- Practicing object-oriented programming concepts
+- Solving programming exercises and improving logic
+- Learning core Java fundamentals
+
+<p>
+  <a href="https://github.com/jethvavishva21-ai?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
   </a>
 </p>
 
-<br>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jethvavishva21-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vishva's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jethvavishva21-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jethvavishva21-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<br>
-
-## 🌐 Let's Connect
-
 <p align="center">
-  <a href="https://github.com/jethvavishva21-ai" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://streak-stats.demolab.com?user=jethvavishva21-ai&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Strengthen JavaScript and React.js fundamentals
+- [ ] Build more complete React applications
+- [ ] Practice REST APIs and CRUD operations
+- [ ] Improve Data Structures and problem-solving skills
+- [ ] Develop and publish more personal projects
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/jethvavishva21-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:jethvavishva21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jethvavishva21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br>
+---
 
-<h3 align="center">📌 Open For</h3>
-<p align="center">
-  🤝 Collaboration on projects | 🧠 Learning & guidance | 💻 Full-stack practice | 🚀 Growth opportunities
-</p>
+## 💡 My Philosophy
 
-<br>
+> Learn consistently. Build with purpose. Improve every day.
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jethvavishva21-ai&label=Profile%20Views&color=0E75B6&icon=5&pretty=true" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <b>☕ Thanks for visiting my profile!</b><br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="60" height="60" /><br><br>
-  <i>Keep learning. Keep building. Stay consistent. 🚀</i>
+  <b>Thanks for visiting my profile! ⭐</b>
+  <br />
+  Feel free to explore my repositories and follow my learning journey.
 </p>
