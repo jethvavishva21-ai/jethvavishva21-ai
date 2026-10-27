@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishva Jethva</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Always+Learning+&+Building" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;React.js+Learner;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 About Me
 
