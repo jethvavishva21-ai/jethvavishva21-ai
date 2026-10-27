@@ -1,18 +1,10 @@
-# Hi 👋, I'm Vishva Jethva
+<h1 align="center">Hi 👋, I'm Vishva Jethva</h1>
 
-### 💻 Software Engineering Student | Aspiring Full-Stack Developer
-
-<p align="left">
-  <a href="https://github.com/jethvavishva21-ai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Always+Learning+&+Building" alt="Typing SVG" />
   </a>
-  <a href="mailto:jethvavishva21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0E75B6?style=flat-square" alt="Current Focus" />
-</p>
-
----
+</div>
 
 ## 👨‍💻 About Me
 
@@ -83,16 +75,6 @@ Here are some areas I'm exploring through hands-on practice and development.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jethvavishva21-ai&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
-
----
-
-## 🎯 Current Goals
-
-- [ ] Strengthen JavaScript and React.js fundamentals
-- [ ] Build more complete React applications
-- [ ] Practice REST APIs and CRUD operations
-- [ ] Improve Data Structures and problem-solving skills
-- [ ] Develop and publish more personal projects
 
 ---
 
