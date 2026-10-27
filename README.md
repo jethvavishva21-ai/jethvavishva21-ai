@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;React.js+Learner;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="Web Development Illustration" width="350" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a software engineering student from Rajkot, Gujarat, India, passionate about learning programming and building useful web applications.
